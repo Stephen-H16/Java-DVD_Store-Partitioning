@@ -2,7 +2,7 @@ package Dvd_Pack;
 
 /**
  *
- * @author d00159804
+ * @author STEPHEN HOEY
  */
 public class DvdStore {
 
